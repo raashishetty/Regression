@@ -1,2 +1,2 @@
 # Regression
-# containing linear regression, mulitple regression, polynomial regression and decision tree for 50 startups
+Containing linear regression, mulitple regression, polynomial regression and decision tree for 50 startups
